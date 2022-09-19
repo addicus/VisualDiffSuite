@@ -1,0 +1,78 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "phone",
+      "width": 320,
+      "height": 480
+    },
+    {
+      "label": "tablet",
+      "width": 1024,
+      "height": 768
+    },
+    {
+        "label": "Desktop",
+        "width": 1920,
+        "height": 1080
+      }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Grid 360 Page - Header/Footer ",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://thesummit-the-summit-staging.cdn.arcpublishing.com/story/360/2022/04/06/student-debt-what-it-is-how-we-got-it-and-why-its-so-hard-to-cancel/",
+      "referenceUrl": "https://www.grid.news/story/360/2022/04/06/student-debt-what-it-is-how-we-got-it-and-why-its-so-hard-to-cancel/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [".free-start-ads-block"],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [".universal-nav",".footer"],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Grid 360 Page - Content",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://thesummit-the-summit-staging.cdn.arcpublishing.com/story/360/2022/04/06/student-debt-what-it-is-how-we-got-it-and-why-its-so-hard-to-cancel/",
+      "referenceUrl": "https://www.grid.news/story/360/2022/04/06/student-debt-what-it-is-how-we-got-it-and-why-its-so-hard-to-cancel/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [".universal-nav",".footer"],
+      "removeSelectors": [".free-start-ads-block","[class^='LensBlock__AdWrapper']","[class*='LensBlock__AdWrapper']","#om-kxcqfmda3glzmolis3qh-holder","#wapella-campaign"],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [".headline_container",".lenses_navigation","._360-body-parser",".authors-list",".collaborators-list","._360-article__web_collaborators",".dw-chart",".article-body-wrapper","[class*=\"TagsListStyled\"]", "[class*=\"TagLinkStyled\"]"],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0.1,
+      "requireSameDimensions": true
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": ["browser"],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": ["--no-sandbox"]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

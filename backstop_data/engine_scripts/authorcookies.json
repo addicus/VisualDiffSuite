@@ -1,0 +1,284 @@
+[
+  {
+    "name": "akaas_AS_thesummit_the_summit_prod",
+    "value": "2147483647~rv=48~id=47c66375b827cec9e339e01c78589906",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 2147483645.875986,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_omappvp",
+    "value": "cUiZDzghqccXlpQoN51rhtQDDJP4wCfnRUhThX99ViW1TxjyFdxxUksBpXFiQYtJPjC2f8Bz8rl6ZKBEj0Kb69gtxp0q8EYn",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 2003257193,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_rdt_uuid",
+    "value": "1642695213634.d4ce5461-3951-4725-b55b-cbf3f9f1cc09",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1665519593,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "fsbotchecked",
+    "value": "true",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1642695213778.980888011",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1665519594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fssid",
+    "value": "d3248f83-0def-494e-9aca-f39f54b16e17",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 157162695213,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2022-01-21T14:50:34.052Z",
+    "domain": ".www.grid.news",
+    "path": "/",
+    "expires": 1674312634,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__qca",
+    "value": "P0-2038108499-1650918476820",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_pbjs_userid_consent_data",
+    "value": "3524755945110770",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1660335594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_lr_env_src_ats",
+    "value": "false",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1660335597,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "omSeen-wwbmwugiqffnu105jzqs",
+    "value": "1655401210297",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1657993210,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "om-wwbmwugiqffnu105jzqs",
+    "value": "1655401212611",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1657993212,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__gads",
+    "value": "ID=25a583b563ae25d3:T=1641960981:S=ALNI_MaPd3Zq2IVJi2W5FZq73ys0Ry4wFg",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1675656981,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "omSeen-asq0qkc59wdyast3wgh8",
+    "value": "1657291463252",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1659883463,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "om-asq0qkc59wdyast3wgh8",
+    "value": "1657291464638",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1659883464,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.491143606.1657544318",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1657829993,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__gpi",
+    "value": "UID=000001c9a8d99833:T=1646757320:RT=1657721999:S=ALNI_MbgGssj7BYW7DeAGZPCwyn8Bfs1Rw",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1680453320,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "RT",
+    "value": "\"z=1&dm=www.grid.news&si=a306327c-77f1-41d4-b147-5338f1a6cc54&ss=l5jzh3dd&sl=0&tt=0\"",
+    "domain": ".www.grid.news",
+    "path": "/",
+    "expires": 1658344599,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AKA_A2",
+    "value": "A",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1657747192.94089,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "_gat_gtag_UA_201291247_4",
+    "value": "1",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1657743653,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.207088510.1642695214",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1720815593,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_parsely_session",
+    "value": "{%22sid%22:334%2C%22surl%22:%22https://www.grid.news/%22%2C%22sref%22:%22%22%2C%22sts%22:1657743593546%2C%22slts%22:1657739799981}",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1657745393,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_parsely_visitor",
+    "value": "{%22id%22:%22pid=375f05a594d0079ffb3a94e777e6d090%22%2C%22session_count%22:334%2C%22last_session_ts%22:1657743593546}",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1691907593,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga_BN3VJ2XSN0",
+    "value": "GS1.1.1657743593.71.1.1657743593.0",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1720815593,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Wed+Jul+13+2022+16%3A19%3A53+GMT-0400+(Eastern+Daylight+Time)&version=6.28.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=US%3BVA",
+    "domain": ".www.grid.news",
+    "path": "/",
+    "expires": 1689279593,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_7EXNJ7Z47L",
+    "value": "GS1.1.1657743593.379.0.1657743593.0",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1720815593,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cto_bundle",
+    "value": "8pxudF9sR2ZVV2dvRW5hR2VndUpRMHg4OVYzJTJGTk1Selg0RkVRaUZOQzI2bUhtZm9OT2JiTG1LVnJQWTFsZ0xYNkY2WDlEWjBEbSUyQkRNWnZ6WTZCeEklMkZiNkhaZ3dJaEliMmN6cmVISnAzREFkT1lEMyUyQiUyQmhoaUh5NyUyQjB2cDV2ZmdjR01aQ3RQUEtEbkJpZk5GR1dDN0klMkY3M2R2ZyUzRCUzRA",
+    "domain": ".grid.news",
+    "path": "/",
+    "expires": 1691439594,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cto_bundle",
+    "value": "8pxudF9sR2ZVV2dvRW5hR2VndUpRMHg4OVYzJTJGTk1Selg0RkVRaUZOQzI2bUhtZm9OT2JiTG1LVnJQWTFsZ0xYNkY2WDlEWjBEbSUyQkRNWnZ6WTZCeEklMkZiNkhaZ3dJaEliMmN6cmVISnAzREFkT1lEMyUyQiUyQmhoaUh5NyUyQjB2cDV2ZmdjR01aQ3RQUEtEbkJpZk5GR1dDN0klMkY3M2R2ZyUzRCUzRA",
+    "domain": ".www.grid.news",
+    "path": "/",
+    "expires": 1691439594,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "omSeen-lvsfxiui6oxtytmirawu",
+    "value": "1657743594913",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1657744794,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_lr_retry_request",
+    "value": "true",
+    "domain": "www.grid.news",
+    "path": "/",
+    "expires": 1657747197,
+    "httpOnly": false,
+    "secure": false
+  }
+]
