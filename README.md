@@ -1,29 +1,18 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Visual diff suite based on backstopJS visual diffing tool https://garris.github.io/BackstopJS/
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Ideal for comparing identical environments (staging/Prod).  This will go through several key selectors and compare production and staging versions and report back on any differences. 
+* Differences can then be manually reviewed and vetted for regressions
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* $ npm install -g backstopjs
+* Run and approve production snapshot
+** backstop --config="Homepage.json" reference approve
+* Run testing against current staging environment 
+** backstop --config="Homepage.json" test
+* Review html report for possible regressions 
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
