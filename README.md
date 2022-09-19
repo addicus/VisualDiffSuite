@@ -11,8 +11,8 @@ Visual diff suite based on backstopJS visual diffing tool https://garris.github.
 
 * $ npm install -g backstopjs
 * Run and approve production snapshot
-** backstop --config="Homepage.json" reference approve
+  * backstop --config="Homepage.json" reference approve
 * Run testing against current staging environment 
-** backstop --config="Homepage.json" test
+  * backstop --config="Homepage.json" test
 * Review html report for possible regressions 
 
